@@ -1,0 +1,6 @@
+* space
+x avg: 0.80, y avg: 0.80, z avg: 3.36
+
+* size
+x avg: 512.00, y avg: 513.11, z avg: 194.73
+
